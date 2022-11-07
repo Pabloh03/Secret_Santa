@@ -35,5 +35,6 @@ Steps to generate password:
   <li>Click on app passwords and generate a new password by selecting Mail and device you are using.</li>
   ![image](https://user-images.githubusercontent.com/64381840/200217468-ed2a1b83-dd97-45dc-9747-664edbc52d6a.png)
   <li>Use whatever password Google generates for you.</li>
+  <ol/>
 
 
