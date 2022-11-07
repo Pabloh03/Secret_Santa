@@ -28,6 +28,12 @@ You will need to use an auto generate password to be able to use GMAIL with pyth
 
 Steps to generate password:
 <ol>
-  <li>Click on Security settings. ![image](https://user-images.githubusercontent.com/64381840/200216805-8939e0f2-7189-47d8-b3d4-3cecc94d7e78.png)
-</li>
-  <li>
+  <li>Click on Security settings.</li>
+  ![image](https://user-images.githubusercontent.com/64381840/200217147-f634623f-5d3b-4b16-ac85-42aebec146fd.png)
+  <li>Set up 2 step identification</li>
+  ![image](https://user-images.githubusercontent.com/64381840/200217248-8d9e89f6-4a9f-4392-81ae-40ade7aa1ec2.png)
+  <li>Click on app passwords and generate a new password by selecting Mail and device you are using.</li>
+  ![image](https://user-images.githubusercontent.com/64381840/200217468-ed2a1b83-dd97-45dc-9747-664edbc52d6a.png)
+  <li>Use whatever password Google generates for you.</li>
+
+
